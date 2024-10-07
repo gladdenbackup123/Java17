@@ -1,0 +1,7 @@
+Object Oriented Programming :
+
+4 Pillars of OOPs :
+1. Polymorphism - method overloading / method overriding
+2. Inheritance
+3. Encapsulation
+4. Abstraction
